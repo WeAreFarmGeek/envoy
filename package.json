@@ -1,0 +1,37 @@
+{
+  "name": "envoy",
+  "version": "0.0.1",
+  "description": "Sync your consul services with your haproxy balancer",
+  "main": "lib/envoy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeAreFarmGeek/envoy.git"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "async": "*",
+    "request-json": "~0.4.11",
+    "ejs": "~1.0.0",
+    "infinite-loop": "~0.2.2",
+    "colors": "*",
+    "winston": "~0.7.3",
+    "nomnom": "~1.8.0"
+  },
+  "keywords": [
+    "consul",
+    "haproxy",
+    "load",
+    "balancer",
+    "service",
+    "discovery"
+  ],
+  "author": "John Hamelink <john@farmer.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeAreFarmGeek/envoy/issues"
+  },
+  "homepage": "https://github.com/WeAreFarmGeek/envoy"
+}
