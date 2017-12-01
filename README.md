@@ -1,5 +1,7 @@
 # Envoy
 
+# THIS PROJECT IS DEPRECATED - Use [CONSUL TEMPLATES](https://github.com/hashicorp/consul-template) INSTEAD
+
 Sync your consul services with your haproxy balancer
 ![Envoy](http://i.imgur.com/UHRG7Ex.jpg)
 
